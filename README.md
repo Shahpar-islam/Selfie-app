@@ -1,2 +1,2 @@
 # Selfie-app
-My bootstrap project for a mobile application.
+My bootstrap project for a mobile application. Simple one. 
